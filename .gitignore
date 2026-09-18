@@ -1,0 +1,14 @@
+# 1C/EDT
+.metadata/
+.settings/
+.project
+.classpath
+bin/
+target/
+*.cfe
+*.cf
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
