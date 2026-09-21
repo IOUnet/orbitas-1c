@@ -5,8 +5,12 @@
 .classpath
 bin/
 target/
+
+# 1C binary build artifacts
 *.cfe
 *.cf
+build/*
+!build/.gitkeep
 
 # OS / IDE
 .DS_Store
